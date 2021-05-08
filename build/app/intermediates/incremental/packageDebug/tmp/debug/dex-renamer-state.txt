@@ -1,0 +1,4 @@
+#Wed May 05 22:20:18 EEST 2021
+base.0=D\:\\Attempts\\fibruk_labs\\flutter_lab_1-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
